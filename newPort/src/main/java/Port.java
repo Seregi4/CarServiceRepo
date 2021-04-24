@@ -9,13 +9,14 @@ public class Port {
 
     public Port() {
 
-        ExecutorService dock = Executors.newFixedThreadPool(4);    // Пулл потоков
+        ExecutorService dock = Executors.newFixedThreadPool(3);    // Пулл потоков
 
         for (int i = 0; i < 3; i++) {                                      //3 задания Dock
             dock.submit(new Dock());                                       //Старт 3 потоков
         }
-        dock.submit(new MoveShips());                                       //задание MoveShips
-
+       // dock.submit(new MoveShips());                                       //задание MoveShips
+        MoveShips moveShips = new MoveShips();
+        moveShips.start();
         dock.shutdown();
     }
 }
