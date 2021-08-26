@@ -15,8 +15,6 @@ import java.io.IOException;
 public class RegistrationServlet extends HttpServlet {
 
 
-
-
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         req.getRequestDispatcher("WEB-INF/JSP/register.jsp").forward(req, resp);
@@ -41,11 +39,11 @@ public class RegistrationServlet extends HttpServlet {
         user.setPassword(password);
         user.setEmail(email);
 
-        UserDAO userDAO = new  UserDAO();
+        UserDAO userDAO = new UserDAO();
         userDAO.insertUser(user);
 
-  //      UserService userService = new UserService();
-   //     userService.createUser(name,password,email);
+        //      UserService userService = new UserService();
+        //     userService.createUser(name,password,email);
         System.out.println(name + password + email);
         req.getRequestDispatcher("WEB-INF/JSP/index.jsp").forward(req, resp);
     }

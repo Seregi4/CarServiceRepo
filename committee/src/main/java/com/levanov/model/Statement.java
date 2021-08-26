@@ -3,12 +3,12 @@ package com.levanov.model;
 public class Statement {
     private int id;
     private int averageScore;
-    private boolean enrolled;
+    private int enrolled;
 
     public Statement() {
     }
 
-    public Statement(int averageScore, boolean enrolled) {
+    public Statement(int averageScore, int enrolled) {
         this.averageScore = averageScore;
         this.enrolled = enrolled;
     }
@@ -17,17 +17,26 @@ public class Statement {
         return id;
     }
 
-    public int getAverageScore() {
-        return averageScore;
+    public void setId(int id) {
+        this.id = id;
     }
 
-    public boolean isEnrolled() {
-        return enrolled;
+    public int getAverageScore() {
+        return averageScore;
     }
 
     public void setAverageScore(int averageScore) {
         this.averageScore = averageScore;
     }
+
+    public int getEnrolled() {
+        return enrolled;
+    }
+
+    public void setEnrolled(int enrolled) {
+        this.enrolled = enrolled;
+    }
+
 
     @Override
     public String toString() {
@@ -38,7 +47,5 @@ public class Statement {
                 '}';
     }
 
-    public void setEnrolled(boolean enrolled) {
-        this.enrolled = enrolled;
-    }
+
 }

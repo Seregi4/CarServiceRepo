@@ -1,7 +1,6 @@
 package com.levanov.model;
 
 
-
 public class SchoolCertificate {
     private int id;
     private int averageScore;
@@ -13,6 +12,10 @@ public class SchoolCertificate {
     public SchoolCertificate(int averageScore, int userAccountID) {
         this.averageScore = averageScore;
         UserAccountID = userAccountID;
+    }
+
+    public void setId(int id) {
+        this.id = id;
     }
 
     public int getId() {

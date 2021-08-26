@@ -6,12 +6,17 @@
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+<%@ page isELIgnored="false" %>
 <html>
 <head>
-    <title>Register</title>
+    <style>
+        <%@include file='/WEB-INF/CSS/register.css' %>
+    </style>
+    <title>Registration</title>
 </head>
 <body>
-<div><h1>Registration</h1></div>
+<h1>Registration</h1></div>
 <form action="/register" class="registration" method="post">
 
     <input type="text" name="name" placeholder="Your name">

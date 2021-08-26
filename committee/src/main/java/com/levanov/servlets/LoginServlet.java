@@ -16,7 +16,7 @@ public class LoginServlet extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 
-     req.getRequestDispatcher("WEB-INF/JSP/login.jsp").forward(req, resp);
+        req.getRequestDispatcher("WEB-INF/JSP/login.jsp").forward(req, resp);
 
     }
 
@@ -44,10 +44,10 @@ public class LoginServlet extends HttpServlet {
                     int userID = userFromDB.getId();
                     session.setAttribute("userID", userID);
                     int userRole = userFromDB.getRoleID();
-                    session.setAttribute("user_role",userRole);
-                    System.out.println("You did it!");
+                    session.setAttribute("user_role", userRole);
 
-                    session.setAttribute("userFromDB",userFromDB );
+
+                    session.setAttribute("userFromDB", userFromDB);
                     System.out.println("you login");
                     req.setAttribute("Email", loginEmail);
                     session.setAttribute("Email", loginEmail);
