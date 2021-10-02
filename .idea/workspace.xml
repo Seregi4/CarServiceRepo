@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c3a1594-e7c2-4835-bb1f-6f698f8083f7" name="Default Changelist" comment="recover111y1111" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/Seregi4/Taxes.git" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1wqM27OcvGntWFwlxPqfuIWvyE0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../myJhipster" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.example.carservice.service.impl" />
+      <recent name="com.example.carservice.web.rest" />
+      <recent name="com.example.carservice.domain" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.apigateway" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\projects\java-microservices-examples-main\spring-boot+cloud\car-service\src\main\resources\db\migration\reposs" />
+      <recent name="D:\projects\java-microservices-examples-main\spring-boot+cloud\car-service\src\main\java\com\example\carservice\web\rest" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.carservice.web.rest.errors" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\projects\java-microservices-examples-main\spring-boot+cloud\car-service\src\main\resources\db\migration" />
+      <recent name="D:\projects\java-microservices-examples-main\spring-boot+cloud\car-service\src\main\resources\nemp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Start">
+    <configuration name="Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.carservice.Start" />
+      <module name="car-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.carservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="car-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.carservice.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.carservice.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.example.carservice.service.impl.CarServiceImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarServiceImplTest.createAndSaveNewCarsAndFindAllCars" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="car-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.carservice.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.carservice.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.example.carservice.service.impl.CarServiceImplTest" />
+      <option name="METHOD_NAME" value="createAndSaveNewCarsAndFindAllCars" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarServiceImplTest.createListCarAndDeleteCarFromListById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="car-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.carservice.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.carservice.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.example.carservice.service.impl.CarServiceImplTest" />
+      <option name="METHOD_NAME" value="createListCarAndDeleteCarFromListById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarServiceImplTest.createSaveUpdateSavedCarName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="car-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.carservice.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.carservice.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.example.carservice.service.impl.CarServiceImplTest" />
+      <option name="METHOD_NAME" value="createSaveUpdateSavedCarName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="api-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.apigateway.ApiGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="car-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.carservice.CarServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="discovery-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.discoveryservice.EurekaServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Start" />
+        <item itemvalue="JUnit.CarServiceImplTest" />
+        <item itemvalue="JUnit.CarServiceImplTest.createSaveUpdateSavedCarName" />
+        <item itemvalue="JUnit.CarServiceImplTest.createAndSaveNewCarsAndFindAllCars" />
+        <item itemvalue="JUnit.CarServiceImplTest.createListCarAndDeleteCarFromListById" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c3a1594-e7c2-4835-bb1f-6f698f8083f7" name="Default Changelist" comment="" />
+      <created>1629181455919</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629181455919</updated>
+      <workItem from="1629181457918" duration="2900000" />
+      <workItem from="1629265705363" duration="19303000" />
+      <workItem from="1629292136895" duration="1020000" />
+      <workItem from="1629293260708" duration="6037000" />
+      <workItem from="1629958626322" duration="4803000" />
+      <workItem from="1629996649302" duration="4742000" />
+      <workItem from="1631007757521" duration="14187000" />
+      <workItem from="1631467663841" duration="7575000" />
+      <workItem from="1631534255011" duration="51000" />
+      <workItem from="1631777519828" duration="314000" />
+      <workItem from="1631779199317" duration="467000" />
+      <workItem from="1631779888238" duration="221000" />
+      <workItem from="1631780419165" duration="663000" />
+      <workItem from="1631788392528" duration="959000" />
+      <workItem from="1632229878685" duration="184000" />
+      <workItem from="1632230420500" duration="2066000" />
+      <workItem from="1632246408555" duration="679000" />
+      <workItem from="1632261728731" duration="2828000" />
+      <workItem from="1632288081460" duration="5386000" />
+      <workItem from="1632294384907" duration="18599000" />
+      <workItem from="1632318060795" duration="4850000" />
+      <workItem from="1632666601873" duration="8077000" />
+      <workItem from="1632675427354" duration="2991000" />
+      <workItem from="1632731207329" duration="1661000" />
+      <workItem from="1632741659360" duration="17371000" />
+      <workItem from="1632820455749" duration="11583000" />
+      <workItem from="1632914716703" duration="5974000" />
+      <workItem from="1633000232407" duration="10705000" />
+      <workItem from="1633084769931" duration="2762000" />
+      <workItem from="1633092602285" duration="5281000" />
+      <workItem from="1633101873659" duration="287000" />
+      <workItem from="1633102484210" duration="860000" />
+      <workItem from="1633172366599" duration="662000" />
+    </task>
+    <task id="LOCAL-00001" summary="recovery">
+      <created>1629960619656</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1629960619656</updated>
+    </task>
+    <task id="LOCAL-00002" summary="recovery">
+      <created>1632262270911</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1632262270911</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first commit">
+      <created>1633172990866</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1633172990866</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="recovery" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="859" y="411" key="#Assign_Data_Sources" timestamp="1633095002645">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="859" y="411" key="#Assign_Data_Sources/0.0.1920.1040/-1024.312.1024.728@0.0.1920.1040" timestamp="1633095002645" />
+    <state x="586" y="198" key="#Inspections" timestamp="1633006786335">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="586" y="198" key="#Inspections/0.0.1920.1040/-1024.312.1024.728@0.0.1920.1040" timestamp="1633006786335" />
+    <state x="845" y="383" width="559" height="402" key="#Notifications" timestamp="1632264492812">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="845" y="383" width="559" height="402" key="#Notifications/0.0.1920.1040/-1024.312.1024.728@0.0.1920.1040" timestamp="1632264492812" />
+    <state x="349" y="361" key="#SQL_Dialects" timestamp="1633094789219">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="349" y="361" key="#SQL_Dialects/0.0.1920.1040/-1024.312.1024.728@0.0.1920.1040" timestamp="1633094789219" />
+    <state x="552" y="178" width="1074" height="683" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1633001275967">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" width="1074" height="683" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1024.312.1024.728@0.0.1920.1040" timestamp="1633001275967" />
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1632321152603">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040/-1024.312.1024.728@0.0.1920.1040" timestamp="1632321152603" />
+    <state x="692" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1633172548590">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="692" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1024.312.1024.728@0.0.1920.1040" timestamp="1633172548590" />
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1633094240362">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1024.312.1024.728@0.0.1920.1040" timestamp="1633094240362" />
+    <state x="743" y="389" width="433" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1632669130044">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="743" y="389" width="433" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/-1024.312.1024.728@0.0.1920.1040" timestamp="1632669130044" />
+    <state x="715" y="223" key="#xdebugger.evaluate" timestamp="1632758711509">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="223" key="#xdebugger.evaluate/0.0.1920.1040/-1024.312.1024.728@0.0.1920.1040" timestamp="1632758711509" />
+    <state x="524" y="88" key="CommitChangelistDialog2" timestamp="1629960579453">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="524" y="88" key="CommitChangelistDialog2/0.0.1920.1040/-1024.312.1024.728@0.0.1920.1040" timestamp="1629960579453" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1632745727920">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1024.312.1024.728@0.0.1920.1040" timestamp="1632745727920" />
+    <state x="768" y="387" key="Github.CreatePullRequestDialog" timestamp="1629960223475">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="768" y="387" key="Github.CreatePullRequestDialog/0.0.1920.1040/-1024.312.1024.728@0.0.1920.1040" timestamp="1629960223475" />
+    <state width="1293" height="282" key="GridCell.Tab.0.bottom" timestamp="1633103352188">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1024.312.1024.728@0.0.1920.1040" timestamp="1633103352188" />
+    <state width="1293" height="282" key="GridCell.Tab.0.center" timestamp="1633103352188">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1024.312.1024.728@0.0.1920.1040" timestamp="1633103352188" />
+    <state width="1293" height="282" key="GridCell.Tab.0.left" timestamp="1633103352188">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1024.312.1024.728@0.0.1920.1040" timestamp="1633103352188" />
+    <state width="1293" height="282" key="GridCell.Tab.0.right" timestamp="1633103352188">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1024.312.1024.728@0.0.1920.1040" timestamp="1633103352188" />
+    <state width="1293" height="282" key="GridCell.Tab.1.bottom" timestamp="1633103352189">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1024.312.1024.728@0.0.1920.1040" timestamp="1633103352189" />
+    <state width="1293" height="282" key="GridCell.Tab.1.center" timestamp="1633103352189">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.1.center/0.0.1920.1040/-1024.312.1024.728@0.0.1920.1040" timestamp="1633103352189" />
+    <state width="1293" height="282" key="GridCell.Tab.1.left" timestamp="1633103352189">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.1.left/0.0.1920.1040/-1024.312.1024.728@0.0.1920.1040" timestamp="1633103352189" />
+    <state width="1293" height="282" key="GridCell.Tab.1.right" timestamp="1633103352189">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.1.right/0.0.1920.1040/-1024.312.1024.728@0.0.1920.1040" timestamp="1633103352189" />
+    <state width="1440" height="218" key="GridCell.Tab.2.bottom" timestamp="1631013615285">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1440" height="218" key="GridCell.Tab.2.bottom/0.0.1920.1040/-1024.312.1024.728@0.0.1920.1040" timestamp="1631013615285" />
+    <state width="1440" height="218" key="GridCell.Tab.2.center" timestamp="1631013615285">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1440" height="218" key="GridCell.Tab.2.center/0.0.1920.1040/-1024.312.1024.728@0.0.1920.1040" timestamp="1631013615285" />
+    <state width="1440" height="218" key="GridCell.Tab.2.left" timestamp="1631013615285">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1440" height="218" key="GridCell.Tab.2.left/0.0.1920.1040/-1024.312.1024.728@0.0.1920.1040" timestamp="1631013615285" />
+    <state width="1440" height="218" key="GridCell.Tab.2.right" timestamp="1631013615285">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1440" height="218" key="GridCell.Tab.2.right/0.0.1920.1040/-1024.312.1024.728@0.0.1920.1040" timestamp="1631013615285" />
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog" timestamp="1633006423592">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog/0.0.1920.1040/-1024.312.1024.728@0.0.1920.1040" timestamp="1633006423592" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1633172421163">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/-1024.312.1024.728@0.0.1920.1040" timestamp="1633172421163" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1633173029563">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1024.312.1024.728@0.0.1920.1040" timestamp="1633173029563" />
+    <state x="634" y="249" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1629960221489">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="634" y="249" key="com.intellij.dvcs.ui.CompareBranchesDialog/0.0.1920.1040/-1024.312.1024.728@0.0.1920.1040" timestamp="1629960221488" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1632748566171">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040/-1024.312.1024.728@0.0.1920.1040" timestamp="1632748566171" />
+    <state x="624" y="254" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1632263968750">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="624" y="254" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1920.1040/-1024.312.1024.728@0.0.1920.1040" timestamp="1632263968750" />
+    <state x="802" y="163" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1632751553079">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="802" y="163" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040/-1024.312.1024.728@0.0.1920.1040" timestamp="1632751553079" />
+    <state x="514" y="249" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1632915898225">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="514" y="249" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040/-1024.312.1024.728@0.0.1920.1040" timestamp="1632915898225" />
+    <state x="667" y="255" width="585" height="530" key="find.popup" timestamp="1629183174627">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="255" width="585" height="530" key="find.popup/0.0.1920.1040/-1024.312.1024.728@0.0.1920.1040" timestamp="1629183174627" />
+    <state x="765" y="381" key="git4idea.rebase.GitRebaseDialog" timestamp="1632262928896">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="381" key="git4idea.rebase.GitRebaseDialog/0.0.1920.1040/-1024.312.1024.728@0.0.1920.1040" timestamp="1632262928896" />
+    <state x="725" y="381" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1633172751609">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="725" y="381" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040/-1024.312.1024.728@0.0.1920.1040" timestamp="1633172751609" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/cloud_parent$CarServiceImplTest_findByID.ic" NAME="CarServiceImplTest.findByID Coverage Results" MODIFIED="1632732560246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.carservice.service.impl.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/cloud_parent$CarServiceImplTest.ic" NAME="CarServiceImplTest Coverage Results" MODIFIED="1633000618925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.carservice.service.impl.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/cloud_parent$CarServiceImplTest_findAll.ic" NAME="CarServiceImplTest.findAll Coverage Results" MODIFIED="1632669931752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.carservice.service.impl.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/cloud_parent$CarServiceImplTest_carUpdate.ic" NAME="CarServiceImplTest.carUpdate Coverage Results" MODIFIED="1632832916116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.carservice.service.impl.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/cloud_parent$CarTest.ic" NAME="CarTest Coverage Results" MODIFIED="1632318231921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.carservice.domain.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/cloud_parent$CarServiceImplTest_save.ic" NAME="CarServiceImplTest.save Coverage Results" MODIFIED="1632317992525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.carservice.service.impl.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/cloud_parent$CarServiceImplTest_delete.ic" NAME="CarServiceImplTest.delete Coverage Results" MODIFIED="1632678125261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.carservice.service.impl.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/cloud_parent$CarServiceImplTest_createAndSaveNewCarNamedOpel.ic" NAME="CarServiceImplTest.createAndSaveNewCarNamedOpel Coverage Results" MODIFIED="1632754370750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.carservice.service.impl.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/cloud_parent$All_in_car_service.ic" NAME="All in car-service Coverage Results" MODIFIED="1631777583025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/cloud_parent$com_example_carservice_in_car_service.ic" NAME="com.example.carservice in car-service Coverage Results" MODIFIED="1631789064626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.carservice.*</FILTER>
+    </SUITE>
+  </component>
+</project>
